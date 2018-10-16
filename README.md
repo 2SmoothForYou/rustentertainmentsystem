@@ -1,2 +1,2 @@
-# rustentertainmentsystem
-NES Emulator in Rust
+# Rust Entertainment System
+An NES Emulator written in Rust
