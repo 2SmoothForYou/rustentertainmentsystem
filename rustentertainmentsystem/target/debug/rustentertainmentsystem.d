@@ -1,0 +1,1 @@
+/Users/jaimericart/Documents/VSCode/projects/RES/rustentertainmentsystem/rustentertainmentsystem/target/debug/rustentertainmentsystem.dSYM: /Users/jaimericart/Documents/VSCode/projects/RES/rustentertainmentsystem/rustentertainmentsystem/src/main.rs

@@ -4,3 +4,6 @@ version = "0.1.0"
 authors = ["2SmoothForYou <jricart2001@gmail.com>"]
 
 [dependencies]
+
+libc="*"
+lazy_static="0.2.8"
